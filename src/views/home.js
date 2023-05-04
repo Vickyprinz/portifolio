@@ -1,7 +1,7 @@
 import React from 'react'
 
 import { Helmet } from 'react-helmet'
-import eclipse from '/home/victor/new-project/portifolio/src/views/images/Ellipse 15.png'
+import eclipse from '/home/victor/new-project/portifolio/src/views/images/Ellipse 95.png'
 import triangle from '/home/victor/new-project/portifolio/src/views/images/Rectangle 52.png'
 import eclipse13 from '/home/victor/new-project/portifolio/src/views/images/Ellipse 13.png'
 import polygon from '/home/victor/new-project/portifolio/src/views/images/Polygon 1.png'
@@ -23,7 +23,7 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>exported project</title>
+        <title>portfolio</title>
       </Helmet>
       <div className="home-home">
         <div className="home-group243">
