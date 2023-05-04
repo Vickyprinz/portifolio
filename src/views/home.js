@@ -1,11 +1,11 @@
 import React from 'react'
 
 import { Helmet } from 'react-helmet'
-import eclipse from '/home/victor/untitled-react/src/views/images/Ellipse 15.png'
-import triangle from '/home/victor/untitled-react/src/views/images/Rectangle 52.png'
-import eclipse13 from '/home/victor/untitled-react/src/views/images/Ellipse 13.png'
-import polygon from '/home/victor/untitled-react/src/views/images/Polygon 1.png'
-import eclipse16 from '/home/victor/untitled-react/src/views/images/Ellipse 16.png'
+import eclipse from '/home/victor/new-project/portifolio/src/views/images/Ellipse 15.png'
+import triangle from '/home/victor/new-project/portifolio/src/views/images/Rectangle 52.png'
+import eclipse13 from '/home/victor/new-project/portifolio/src/views/images/Ellipse 13.png'
+import polygon from '/home/victor/new-project/portifolio/src/views/images/Polygon 1.png'
+import eclipse16 from '/home/victor/new-project/portifolio/src/views/images/Ellipse 16.png'
 import './home.css'
 
 const Home = (props) => {
