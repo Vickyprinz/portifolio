@@ -1,11 +1,11 @@
 import React from 'react'
 
 import { Helmet } from 'react-helmet'
-import eclipse from '/home/victor/new-project/portifolio/src/views/images/Ellipse 95.png'
-import triangle from '/home/victor/new-project/portifolio/src/views/images/Rectangle 52.png'
-import eclipse13 from '/home/victor/new-project/portifolio/src/views/images/Ellipse 13.png'
-import polygon from '/home/victor/new-project/portifolio/src/views/images/Polygon 1.png'
-import eclipse16 from '/home/victor/new-project/portifolio/src/views/images/Ellipse 16.png'
+import triangle from './images/Rectangle 52.png'
+import eclipse13 from './images/Ellipse 13.png'
+import polygon from './images/Polygon 1.png'
+import eclipse16 from './images/Ellipse 16.png'
+import ellipseImage from './images/Ellipse 16.png';
 import './home.css'
 
 const Home = (props) => {
@@ -69,7 +69,7 @@ const Home = (props) => {
                 />
                 <img
                   alt="Ellipse15114"
-                  src={eclipse}
+                  src={ellipseImage}
                   className="home-ellipse15"
                 />
                 <img
